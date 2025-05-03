@@ -34,3 +34,8 @@ body {
     margin-bottom: 0.5rem;
   }
   
+@media (max-width: 883px) {
+    body {
+        padding: 0 10rem 0 10rem;
+    }
+}
