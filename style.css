@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .bula {
+    border: 2px solid #003366;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 800px;
+    background-color: #fdfdfd;
+  }
+  
+  .cabecalho {
+    background-color: #003366; /* Azul escuro */
+  }
+  
+  .faixa-vermelha {
+    background-color: #cc0000; /* Faixa de advertência */
+  }
+  
+  .conteudo h2 {
+    font-size: 1.1rem;
+    border-bottom: 1px solid #ddd;
+    color: #003366;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .conteudo p,
+  .conteudo li {
+    text-align: justify;
+    margin-bottom: 0.5rem;
+  }
+  
